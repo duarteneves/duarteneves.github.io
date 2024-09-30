@@ -100,7 +100,7 @@ figure figcaption {
     margin-bottom: 15px;
 }
 
-.poema {
+#poema p {
     font-style: italic;
     margin-bottom: 20px;
     line-height: 1.8;
