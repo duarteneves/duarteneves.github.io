@@ -106,3 +106,16 @@ figure figcaption {
     line-height: 1.8;
     text-align: justify;
 }
+
+label {
+    font-size: small;
+}
+
+input {
+    font-size: medium;
+}
+
+label, input {
+    display: block;
+    margin-bottom: 10px;
+}
